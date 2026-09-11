@@ -1,8 +1,0 @@
-AI Disclosure
-
-ChatGPT
-Used to gather initial information and content (compound properties, uses, risks, and other facts) for the three infographics.
-Claude (Anthropic)
-Used to verify the chemistry accuracy of the three compounds (structural formulas, molecular formulas, IUPAC names, and stereochemistry consistency), verify the credibility and accuracy of references cited, assist with APA 7th edition formatting of the reference list, and provide guidance on GitHub repository setup and file organization.
-
-Design and layout of all three infographics were created independently using Canva, without AI-generated design assistance.
