@@ -13,3 +13,4 @@ Neogen Corporation. (2024). Safety data sheet: Glucose (dextrose). https://www.n
 Sigma-Aldrich. (2026). Safety data sheet: Citric acid (Product No. 27487). https://www.sigmaaldrich.com/US/en/product/sigma/27487
 
 U.S. Food and Drug Administration. (2015). Aspirin: Questions and answers. https://www.fda.gov/drugs/safe-use-aspirin/aspirin-questions-and-answers
+
