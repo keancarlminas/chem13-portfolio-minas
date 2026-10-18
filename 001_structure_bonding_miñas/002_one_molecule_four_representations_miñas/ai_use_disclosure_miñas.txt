@@ -1,0 +1,11 @@
+
+
+AI tool used: Claude (by Anthropic)
+
+Where it was used:
+- To verify my structures for the 10 molecules (atom count,
+  valence, bond order, and connectivity).
+- To ask if my approach and submission requirements were correct.
+
+I drew all the structures myself. The bond-line structures were
+made in Ketcher.
