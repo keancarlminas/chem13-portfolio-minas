@@ -1,0 +1,15 @@
+AI DISCLOSURE
+
+AI TOOLS USED
+
+Claude 
+  - Used to generate and verify chemistry content for Part A (naming
+    trails and checks) and Part B (Name Decoded, Formula Check, and
+    Back-Check).
+  - Used to give feedback on the accuracy of the chemistry content.
+
+ChatGPT 
+  - Used to assist in drafting card content.
+
+The layout and design of all cards were done without ai assistance.
+
